@@ -1,9 +1,6 @@
 # 📘 Learn Core Java
 
- >⚠️**Please read before reviewing this repository**
-
-I am a **Computer Science graduate** with **strong fundamentals in C/C++ and Object-Oriented Programming (OOP)**.  
-In my professional role, my organization advised me to transition into **backend development using Spring Boot** as part of a long-term goal to become an **ERP specialist**.
+As a **Computer Science** graduate with strong fundamentals in **C/C++ and OOP**, I am learning Core Java to transition into backend development with **Spring Boot** and move toward becoming an ERP specialist.
 
 ### 🔹 My Learning Strategy
 - I do not memorize Java syntax mechanically
