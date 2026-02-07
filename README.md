@@ -52,3 +52,10 @@ java Filename
 
 **Advanced Java**  
 **•** Wrapper Classes **•** Generics **•** Annotations **•** Regex **•** Threads **•** Lambda Expressions
+
+# 🔹 Featured Project
+
+## 1. STMS Java Console App
+**Repository:** https://github.com/mdarafat1819/stms_java_console_app
+- A console-based Java application for Simple Task Management System
+- Focuses on OOP concepts, core Java APIs, and real-world problem-solving
